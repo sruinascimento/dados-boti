@@ -5,7 +5,7 @@ Nesse script foi abordado sobre:
 - Conhecendo o módulo pandas e matplotlib.pyplot
 - Aprendo informações sobre as colunas e linhas
 - Obtendo informações sobre gênero 
-- plotagem de gráfico
+- Plotagem de gráfico
 
 ## Desafio
 1. Visualize os dados somente da coluna `SG_UF_PROVA` e faça uma contagem para sabermos o número de participantes por estado
